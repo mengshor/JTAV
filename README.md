@@ -1,7 +1,5 @@
 # JTAV
 
-Source code of paper: "JTAV: Jointly Learning Social Media Content by Fusing Textual, Acoustic, and Visual Features".
-
 ## Experiments
 
 Here are two folders corresponding to the two experiments introduced in the paper:
